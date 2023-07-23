@@ -3,7 +3,7 @@
 
  ![Captura de Tela (37)](https://github.com/WV-Wesley-Victor/Trabalhando-com-imagens/assets/137107062/0fb4f66a-7278-4282-86a7-8cf6a912deba)
 <p align="center">
-  <a href="https://wv-wesley-victor.github.io/Pagina-de-Login-Simplificada/" target="_blank">Clique aqui para visitar o projeto</a>
+  <a href="https://wv-wesley-victor.github.io/Trabalhando-com-imagens/" target="_blank">Clique aqui para visitar o projeto</a>
 </p>
  
  ## Descrição
