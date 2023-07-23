@@ -1,0 +1,2 @@
+# Trabalhando com imagens
+ Este é um repositório no GitHub que explora várias técnicas e práticas para trabalhar com imagens em projetos web utilizando HTML e CSS. Aprenda como incorporar imagens em suas páginas, aplicar estilos de imagem e criar layouts impressionantes com a utilização adequada das propriedades CSS. Descubra como otimizar imagens para melhorar o desempenho do seu site e proporcionar uma experiência visual agradável aos usuários.
