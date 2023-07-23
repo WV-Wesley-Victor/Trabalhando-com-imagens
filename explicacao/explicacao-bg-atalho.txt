@@ -1,0 +1,35 @@
+vou explicar o código:
+
+- Estrutura básica da página: O código começa com a declaração do tipo de documento (<!DOCTYPE html>) e o início do elemento <html> que contém todo o conteúdo da página. O atributo lang="pt-br" indica que o idioma utilizado na página é o português do Brasil.
+
+- Seção <head>: Essa seção é destinada a informações e configurações relacionadas à página, mas que não serão exibidas diretamente na visualização do usuário.
+
+- <meta>: São elementos usados para fornecer informações adicionais sobre o documento. Neste caso, temos três meta tags:
+
+- charset="UTF-8": Define a codificação de caracteres como UTF-8, que é uma codificação universal que permite representar diversos caracteres e símbolos de diferentes idiomas.
+
+- viewport: Define a escala inicial da página para dispositivos móveis.
+
+- author: Indica o autor da página como "Wesley Victor".
+
+- <title>: Define o título da página, que será exibido na guia ou aba do navegador. Neste caso, o título é "Background atalho".
+
+- <style>: Contém as regras de estilo CSS que são aplicadas ao conteúdo da página. Aqui temos duas regras de estilo:
+
+- body: Define os estilos para o corpo da página, incluindo tamanho da fonte, altura da linha, cor do texto e o background (fundo).
+- font-size: 200%: Define o tamanho da fonte como o dobro do tamanho padrão.
+- line-height: 2: Define a altura da linha como o dobro do tamanho padrão.
+- color: white: Define a cor do texto como branca.
+- background: Define o plano de fundo da página. Neste caso, a imagem "tile-pattern.png" é utilizada como background. A palavra "red" após a imagem define uma cor de fallback caso a imagem não seja carregada. O valor "no-repeat" evita que a imagem se repita no fundo, e o valor "fixed" mantém o background fixo enquanto a página é rolada.
+
+- Seção <body>: É aqui que o conteúdo visível da página é colocado.
+
+- <h1>: Cabeçalho de nível 1, é o título principal da página, que diz "Atalho para background".
+
+- <a>: É a tag usada para criar links. Neste caso, há dois links, um para "index.html" e outro para "bg-atalho.html". Eles são separados pelo caractere "|" para criar uma separação visual.
+
+- <p>: Parágrafo de texto longo com texto "Lorem ipsum..." usado como preenchimento para demonstrar o background da página. O parágrafo tem um estilo aplicado via CSS no elemento <head>, que adiciona um espaço de 150px no topo do parágrafo.
+
+- Estilos CSS embutidos: Dentro da tag <style> na seção <head>, são definidas regras de estilo que serão aplicadas aos elementos da página.
+
+O resultado dessa página será uma visualização em português do Brasil com um título, alguns links, e um texto de preenchimento. A aparência da página terá um fundo composto pela repetição de uma imagem de padrão (tile-pattern.png) com uma cor de fallback vermelha, e o texto terá um tamanho maior que o padrão, com espaçamento entre as linhas.
